@@ -1,0 +1,93 @@
+
+.fila{
+    text-align: center;
+    padding-top: 8%;    
+}
+body{
+    height: 40%;
+    background: linear-gradient(50deg, rgb(0, 0, 0),rgb(9, 109, 17));
+
+}
+html{
+    height: 100%;
+}
+table{
+    border-radius: 25px;
+    background-color: rgba(97, 97, 97, .5);
+    padding-top: 2%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.titulos2{
+    padding-top: -5%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    color: white;
+}
+.subtitulos2{
+    padding-top: -5%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.campos3{
+    padding-top: 8%;
+}
+
+.etiquetas2{
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    padding-top: 8%;
+}
+.campos3{
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #ffffff;
+}
+.boton2{
+    background-color: rgb(32, 160, 15);
+    color: white;
+    font-size: 14px;
+    width: 95px;
+    height: 45px;
+    border: none;
+    border-radius: 12px;
+    
+}
+.boton:hover{
+    background-color: rgb(8, 65, 20);
+    color: white;
+    font-size: 14px;
+    width: 95px;
+    height: 45px;
+    border: none;
+    border-radius: 12px;
+
+}
+.boton:active{
+    background-color: rgb(8, 65, 20);
+    color: white;
+    font-size: 14px;
+    width: 85px;
+    height: 35px;
+    border: none;
+    border-radius: 12px;
+}
+
+.alin{
+    text-align: right;
+    padding-top: 8%;
+
+}
+.div2{
+       display: block;
+       width: 100%;
+        background-color: rgb(0, 0, 0);
+}
+.yum{
+    padding-left: 10%;
+ }
